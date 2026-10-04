@@ -4,3054 +4,1574 @@
     "url": "https://github.com/cablate/ctx-handoff-mod",
     "description": "Hands a long conversation to a fresh one at a context threshold and keeps the prompt cache warm meanwhile.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 29,
-    "pushedAt": "2026-10-02T21:39:14Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "cablate/ctx-handoff-mod"
+    "mediaUrl": null
   },
   {
     "name": "prismantis",
     "url": "https://github.com/NahumLitvin/prismantis",
     "description": "Renders replies with colored tables, code, diagrams and charts in 15 themes, with copy buttons.",
     "category": "themes and looks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 8,
-    "pushedAt": "2026-10-02T15:26:40Z",
-    "mediaUrl": "https://raw.githubusercontent.com/NahumLitvin/prismantis/main/docs/screenshot.png",
-    "verified": true,
-    "repo": "NahumLitvin/prismantis"
+    "mediaUrl": "https://raw.githubusercontent.com/NahumLitvin/prismantis/main/docs/screenshot.png"
   },
   {
     "name": "claudelingo",
     "url": "https://github.com/AI-Experts-LLC/claudelingo",
     "description": "Shows a vocabulary quiz card above the prompt while Claude thinks, so waiting time becomes language practice.",
     "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-09-17T15:49:44Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "AI-Experts-LLC/claudelingo"
+    "mediaUrl": null
   },
   {
     "name": "adlib-lyrics",
     "url": "https://github.com/bixxter/adlib-lyrics",
     "description": "Shows synced lyrics from Apple Music or Spotify above the prompt, with a small dancing mascot.",
     "category": "pets and fun",
-    "installCommand": "/plugin install adlib-lyrics@adlib-lyrics",
-    "license": null,
-    "stars": 3,
-    "pushedAt": "2026-10-02T15:58:04Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "bixxter/adlib-lyrics"
+    "mediaUrl": null
   },
   {
     "name": "claude-cat-mod",
     "url": "https://github.com/matthlh/claude-cat-mod",
     "description": "A pixel cat above the prompt that wanders, tracks usage limits and signals when Claude finishes.",
     "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T05:51:11Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "matthlh/claude-cat-mod"
+    "mediaUrl": null
   },
   {
     "name": "token-weather-usage",
     "url": "https://github.com/augiefra/claude-mods/tree/main/plugins/token-weather-usage",
     "description": "One line above the prompt showing context weather, token bars and 5-hour and 7-day limits with reset time.",
     "category": "usage and limits",
-    "installCommand": "/plugin install token-weather-usage@augiefra-mods",
-    "license": "Apache-2.0",
-    "stars": 3,
-    "pushedAt": "2026-10-02T18:10:08Z",
-    "mediaUrl": "https://raw.githubusercontent.com/augiefra/claude-mods/main/docs/band.png",
-    "verified": true,
-    "repo": "augiefra/claude-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/augiefra/claude-mods/main/docs/band.png"
   },
   {
     "name": "ricky-pixel-mod",
     "url": "https://github.com/muxia23/ricky-pixel-mod",
     "description": "An animated starry-sky mascot that changes expression with Claude's state, plus a board of tasks, subagents and edited files.",
     "category": "pets and fun",
-    "installCommand": null,
-    "license": null,
-    "stars": 3,
-    "pushedAt": "2026-10-03T16:26:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "muxia23/ricky-pixel-mod"
+    "mediaUrl": null
   },
   {
     "name": "whats-agent-doing",
     "url": "https://github.com/tzafrir/whats-agent-doing",
     "description": "Names the step Claude is on in plain English above the prompt, with elapsed time and a clickable step history.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 2,
-    "pushedAt": "2026-10-03T12:09:26Z",
-    "mediaUrl": "https://raw.githubusercontent.com/tzafrir/whats-agent-doing/main/media/hero.gif",
-    "verified": true,
-    "repo": "tzafrir/whats-agent-doing"
+    "mediaUrl": "https://raw.githubusercontent.com/tzafrir/whats-agent-doing/main/media/hero.gif"
   },
   {
     "name": "claude-agentpane",
     "url": "https://github.com/xuanji86/claude-agentpane",
     "description": "A pane beside the chat showing each subagent's current activity, token cost and full conversation.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 2,
-    "pushedAt": "2026-10-03T19:44:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "xuanji86/claude-agentpane"
+    "mediaUrl": null
   },
   {
     "name": "claude-code-effort-cycle",
     "url": "https://github.com/Anerco/claude-code-effort-cycle",
     "description": "Cycles reasoning effort levels with Alt+E and Alt+Shift+E, leaving nothing in the transcript.",
     "category": "productivity",
-    "installCommand": "/plugin marketplace add Anerco/plugins && /plugin install effort-cycle@anerco",
-    "license": "MIT",
-    "stars": 2,
-    "pushedAt": "2026-10-01T22:42:15Z",
-    "mediaUrl": "https://raw.githubusercontent.com/Anerco/claude-code-effort-cycle/main/demo.gif",
-    "verified": true,
-    "repo": "Anerco/claude-code-effort-cycle"
+    "mediaUrl": "https://raw.githubusercontent.com/Anerco/claude-code-effort-cycle/main/demo.gif"
   },
   {
     "name": "cc-persistent-monitor",
     "url": "https://github.com/ruihe774/cc-persistent-monitor",
     "description": "Restores watches without a deadline, working around the 30 minute cap on the built-in Monitor tool.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "Unlicense",
-    "stars": 1,
-    "pushedAt": "2026-10-01T20:45:00Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "ruihe774/cc-persistent-monitor"
+    "mediaUrl": null
   },
   {
     "name": "claude-mdview",
     "url": "https://github.com/xuanji86/claude-mdview",
     "description": "Click a Markdown path Claude mentions to read the rendered file in a pane beside the chat.",
     "category": "reading and viewing",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T08:16:15Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "xuanji86/claude-mdview"
+    "mediaUrl": null
   },
   {
     "name": "deskbar",
     "url": "https://github.com/0NE-C0DEMAN/deskbar",
     "description": "A row of widgets above the prompt for context weather, Gmail, calendar and more, each opening a dropdown.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T05:37:48Z",
-    "mediaUrl": "https://raw.githubusercontent.com/0NE-C0DEMAN/deskbar/main/media/deskbar-launch-v1.gif",
-    "verified": true,
-    "repo": "0NE-C0DEMAN/deskbar"
+    "mediaUrl": "https://raw.githubusercontent.com/0NE-C0DEMAN/deskbar/main/media/deskbar-launch-v1.gif"
   },
   {
     "name": "wavy-usage",
     "url": "https://github.com/BatuhanCakmakk/wavy-usage",
     "description": "Liquid-filled rings for 5-hour and 7-day limits, context fill and cache time, with a jet showing effort.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-02T20:14:43Z",
-    "mediaUrl": "https://raw.githubusercontent.com/BatuhanCakmakk/wavy-usage/main/docs/band.png",
-    "verified": true,
-    "repo": "BatuhanCakmakk/wavy-usage"
+    "mediaUrl": "https://raw.githubusercontent.com/BatuhanCakmakk/wavy-usage/main/docs/band.png"
   },
   {
     "name": "claude-flightdeck",
     "url": "https://github.com/scasella/claude-flightdeck",
     "description": "A terminal dashboard of context, cost, advisor timeline, permission checks and subagents as cards or swimlanes.",
     "category": "agents and tasks",
-    "installCommand": "/plugin install flightdeck@claude-flightdeck",
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-02T21:36:52Z",
-    "mediaUrl": "https://raw.githubusercontent.com/scasella/claude-flightdeck/main/docs/media/demo.gif",
-    "verified": true,
-    "repo": "scasella/claude-flightdeck"
+    "mediaUrl": "https://raw.githubusercontent.com/scasella/claude-flightdeck/main/docs/media/demo.gif"
   },
   {
     "name": "terminal-gym",
     "url": "https://github.com/DrumAndCode/terminal-gym",
     "description": "Log bodyweight sets from a band above the prompt while Claude works, with a daily goal and streak.",
     "category": "pets and fun",
-    "installCommand": "claude plugin marketplace add DrumAndCode/terminal-gym && claude plugin install terminal-gym@terminal-gym",
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T16:28:26Z",
-    "mediaUrl": "https://raw.githubusercontent.com/DrumAndCode/terminal-gym/main/docs/band.png",
-    "verified": true,
-    "repo": "DrumAndCode/terminal-gym"
+    "mediaUrl": "https://raw.githubusercontent.com/DrumAndCode/terminal-gym/main/docs/band.png"
   },
   {
     "name": "gsd-status-mod",
     "url": "https://github.com/helenkwok/gsd-status-mod",
     "description": "A live dashboard for GSD projects showing the roadmap, current phase and an agent tree with live clocks.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install gsd-status-mod@helenkwok-mods",
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T15:22:56Z",
-    "mediaUrl": "https://raw.githubusercontent.com/helenkwok/gsd-status-mod/main/docs/screenshots/demo.gif",
-    "verified": true,
-    "repo": "helenkwok/gsd-status-mod"
+    "mediaUrl": "https://raw.githubusercontent.com/helenkwok/gsd-status-mod/main/docs/screenshots/demo.gif"
   },
   {
     "name": "claude-fleet",
     "url": "https://github.com/Dubbus/claude-fleet",
     "description": "Lists every Claude session on your machine with what it is doing, its code state and context size.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-02T01:26:43Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "Dubbus/claude-fleet"
+    "mediaUrl": null
   },
   {
     "name": "red-alert",
     "url": "https://github.com/dukechain2333/red-alert/tree/main/plugin",
     "description": "Claude sounds an alert through your speakers when its work deserves attention, from a chirp to a red alert.",
     "category": "sound and alerts",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T04:35:55Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "dukechain2333/red-alert"
+    "mediaUrl": null
   },
   {
     "name": "agent-radar",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/agent-radar",
     "description": "One live line above the prompt per running subagent with time, tool count and current action.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install agent-radar@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "blast-radius",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/blast-radius",
     "description": "Holds risky Bash commands and shows what they would change before they run.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install blast-radius@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "browser-lanes",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/browser-lanes",
     "description": "Shows whether the session holds a Playwright browser and makes subagents wait for it instead of clashing.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install browser-lanes@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "glance",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/glance",
     "description": "One line above the prompt showing next meeting, pull requests, Linear issues and Slack DMs that need you.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install glance@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "md-preview",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/md-preview",
     "description": "Shows Markdown files Claude edits rendered like GitHub in a side pane, with before and after views.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install md-preview@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "merge-gate",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/merge-gate",
     "description": "Holds gh pr merge until CI passes and a Codex review has run, with a PR status line.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install merge-gate@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "mission-control",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/mission-control",
     "description": "Opens a live map of the main agent, subagents and every tool call, plus a code map of touched files.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install mission-control@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": "https://raw.githubusercontent.com/hamzafer/claude-code-mods/main/images/mission-control.gif",
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/hamzafer/claude-code-mods/main/images/mission-control.gif"
   },
   {
     "name": "next-steps",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/next-steps",
     "description": "Suggests two or three likely next prompts above the prompt after each turn, drafted with a keypress.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install next-steps@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "reels",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/reels",
     "description": "Plays YouTube Shorts in a terminal pane while Claude works and pauses when it finishes.",
     "category": "pets and fun",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install reels@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "replay-theater",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/replay-theater",
     "description": "Steps through the last turn's file edits one diff at a time.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install replay-theater@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "rulebook-guard",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/rulebook-guard",
     "description": "Enforces writing and git rules: replaces em dashes and asks before amends, unformatted pushes or personal data.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install rulebook-guard@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "session-saver",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/session-saver",
     "description": "Names untitled sessions, saves where you left off with /park and shows it again on resume.",
     "category": "context and sessions",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install session-saver@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "snake",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/snake",
     "description": "Snake in a pane while Claude works, paused when it finishes, opened only with /snake.",
     "category": "pets and fun",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install snake@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "token-weather",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/token-weather",
     "description": "A live forecast of the context window with a prompt cache countdown, drawn above the prompt.",
     "category": "usage and limits",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install token-weather@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "usage-meter",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/usage-meter",
     "description": "Small bars above the prompt for 5-hour and 7-day plan usage, reset countdown and session cost.",
     "category": "usage and limits",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install usage-meter@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "where-am-i",
     "url": "https://github.com/hamzafer/claude-code-mods/tree/main/mods/where-am-i",
     "description": "A live recap above the prompt of the goal, current work, what waits on you and what is next.",
     "category": "context and sessions",
-    "installCommand": "claude plugin marketplace add hamzafer/claude-code-mods && claude plugin install where-am-i@claude-code-mods",
-    "license": "MIT",
-    "stars": 49,
-    "pushedAt": "2026-10-04T00:59:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "hamzafer/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "fable-pin",
     "url": "https://github.com/karanb192/claude-code-mods/tree/main/plugins/fable-pin",
     "description": "Pins every subagent to the fable model by rewriting the model on spawn, toggled with /fable-pin.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install fable-pin@claude-code-mods",
-    "license": "MIT",
-    "stars": 34,
-    "pushedAt": "2026-10-03T14:12:18Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "karanb192/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "image-peek",
     "url": "https://github.com/karanb192/claude-code-mods/tree/main/plugins/image-peek",
     "description": "Previews pasted images at their prompt markers on macOS in Ghostty, with experimental iTerm2 support.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin install image-peek@claude-code-mods",
-    "license": "MIT",
-    "stars": 34,
-    "pushedAt": "2026-10-03T14:12:18Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "karanb192/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "cache-keeper",
     "url": "https://github.com/nateherkai/claude-code-mods/tree/main/cache-keeper",
     "description": "Keeps a big chat's prompt cache warm, warns before cold restarts and shows all local chats on a board.",
     "category": "context and sessions",
-    "installCommand": "claude plugin install cache-keeper@nateherk-mods",
-    "license": "MIT",
-    "stars": 6,
-    "pushedAt": "2026-10-02T20:43:14Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "nateherkai/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "collision-guard",
     "url": "https://github.com/nateherkai/claude-code-mods/tree/main/collision-guard",
     "description": "Asks before Claude edits a file that another open chat changed in the last 30 minutes.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install collision-guard@nateherk-mods",
-    "license": "MIT",
-    "stars": 6,
-    "pushedAt": "2026-10-02T20:43:14Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "nateherkai/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "goal-meter",
     "url": "https://github.com/nateherkai/claude-code-mods/tree/main/goal-meter",
     "description": "A progress bar for /goal built from Claude's task plan, with elapsed time and an estimated finish.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install goal-meter@nateherk-mods",
-    "license": "MIT",
-    "stars": 6,
-    "pushedAt": "2026-10-02T20:43:14Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "nateherkai/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "recording-mode",
     "url": "https://github.com/nateherkai/claude-code-mods/tree/main/recording-mode",
     "description": "Masks keys, personal details and business figures on screen and keeps private files closed while you record.",
     "category": "productivity",
-    "installCommand": "claude plugin install recording-mode@nateherk-mods",
-    "license": "MIT",
-    "stars": 6,
-    "pushedAt": "2026-10-02T20:43:14Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "nateherkai/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "action-pin",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/action-pin",
     "description": "After an edit adds a tag-pinned GitHub Actions step, names the commit SHA to use instead.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install action-pin@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "ask-autopick",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/ask-autopick",
     "description": "Picks the recommended answer to a question left unanswered for a set time so a deserted session keeps going.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install ask-autopick@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "bash-diet",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/bash-diet",
     "description": "Shrinks each Bash result with per-command filters before the model reads it, keeping the full output available.",
     "category": "usage and limits",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install bash-diet@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "bg-tasks",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/bg-tasks",
     "description": "Shows the session's background shell tasks with the oldest one's age and lets you stop one from a pane.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install bg-tasks@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "bughunt",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/bughunt",
     "description": "Runs bug hunt rounds where each round proves a bug with a failing command, fixes it and proves the fix.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install bughunt@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "cache-warm",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/cache-warm",
     "description": "Keeps the one-hour prompt cache warm for a chosen window with one cache-sharing fork per idle stretch.",
     "category": "context and sessions",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install cache-warm@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "commit-cadence",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/commit-cadence",
     "description": "Names uncommitted files at the end of each turn and tells the model to commit finished pieces.",
     "category": "productivity",
-    "installCommand": "claude plugin install commit-cadence@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "config-parse",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/config-parse",
     "description": "Parses each JSON, YAML, TOML or .env file Claude edits and reports parse errors at once.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install config-parse@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "context-restore",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/context-restore",
     "description": "Gives a skill or command the current text of its file when it changed on disk after session start.",
     "category": "context and sessions",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install context-restore@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "contract-watch",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/contract-watch",
     "description": "After a function signature changes, adds the callers that need updating to the edit result.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install contract-watch@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "council",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/council",
     "description": "Asks a council of Claude and Gemini models about a hard problem, from a tool call or /council.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install council@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "dep-sentinel",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/dep-sentinel",
     "description": "Checks each installed package against its registry and OSV.dev and stops missing, brand-new, look-alike or vulnerable ones.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install dep-sentinel@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "desk-notify",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/desk-notify",
     "description": "Sends a desktop notification when a question or plan waits for you, and when a turn ends or fails.",
     "category": "sound and alerts",
-    "installCommand": "claude plugin install desk-notify@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "diagram-render",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/diagram-render",
     "description": "Renders mermaid blocks in replies with mmdc after each turn and draws the picture under the reply.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin install diagram-render@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "disk-janitor",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/disk-janitor",
     "description": "Measures build artifacts in the repository, shows them on the status line and deletes the ones you pick.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install disk-janitor@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "doc-drift-watch",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/doc-drift-watch",
     "description": "After each commit, lists the doc lines the commit made stale, such as file references and symbol names.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install doc-drift-watch@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "edit-loop",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/edit-loop",
     "description": "Adds a note on the fifth edit of one file in a turn so the model states the root cause.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install edit-loop@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "effort-auto",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/effort-auto",
     "description": "Has a small model rate each prompt's difficulty and runs that turn and its subagents at a matching effort.",
     "category": "usage and limits",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install effort-auto@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "env-sync",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/env-sync",
     "description": "After each commit, names env variables the new lines read that .env.example lacks.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install env-sync@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "error-poke",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/error-poke",
     "description": "Sends a continue prompt after a turn killed by an API error so half-done work carries on.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install error-poke@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "flaky-memory",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/flaky-memory",
     "description": "Remembers which tests failed on which code and tells the model when a test is flaky on the same code.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install flaky-memory@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "gemini-advisor",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/gemini-advisor",
     "description": "Gives the model a tool that asks Gemini for a second opinion on the whole conversation.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install gemini-advisor@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "gemini-compact",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/gemini-compact",
     "description": "Hands context compaction to Gemini so the summary does not count against your Claude usage.",
     "category": "usage and limits",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install gemini-compact@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "gemini-core",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/gemini-core",
     "description": "Keeps Gemini keys, tier and per-mod model settings in one place for every Gemini mod.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install gemini-core@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "gemini-plan-review",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/gemini-plan-review",
     "description": "Has Gemini review each plan before the approval dialog and sends back plans with blocking findings.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install gemini-plan-review@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "gemini-review",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/gemini-review",
     "description": "Has Gemini review every git commit the model runs and stops commits with a blocking finding.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install gemini-review@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "git-commit",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/git-commit",
     "description": "Ships a commit skill and holds every Bash git commit to it, blocking blanket adds, secrets and ignored paths.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install git-commit@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "i18n-watch",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/i18n-watch",
     "description": "After an edit that uses translation keys, names the keys and languages the locale files lack.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install i18n-watch@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "idle-art",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/idle-art",
     "description": "Draws an ASCII animation above the prompt while the model works, such as matrix rain, fire or a cat.",
     "category": "pets and fun",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install idle-art@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "limit-watch",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/limit-watch",
     "description": "Shows subscription usage limits under the prompt with a reset countdown, projection and a detail pane.",
     "category": "usage and limits",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install limit-watch@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "lockfile-sync",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/lockfile-sync",
     "description": "After each commit, names manifests whose dependencies changed without a matching lockfile update.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install lockfile-sync@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "mcp-doctor",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/mcp-doctor",
     "description": "Tells you when an MCP server fails or drops, with the reason and a reconnect button.",
     "category": "productivity",
-    "installCommand": "claude plugin install mcp-doctor@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "memory-save",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/memory-save",
     "description": "Loads MEMORY.md into the session and saves project learnings to it after each turn in the background.",
     "category": "context and sessions",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install memory-save@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "mod-doctor",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/mod-doctor",
     "description": "Names installed plugins whose local clone offers a newer version, with the update command.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install mod-doctor@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "orphan-server",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/orphan-server",
     "description": "Lists servers Claude started that still listen on a port and stops one on request.",
     "category": "productivity",
-    "installCommand": "claude plugin install orphan-server@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "output-flood",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/output-flood",
     "description": "Measures context spent per Bash command and suggests a narrower command when output is too large.",
     "category": "usage and limits",
-    "installCommand": "claude plugin install output-flood@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "pin-note",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/pin-note",
     "description": "Keeps notes you pin and resends them word for word after each compaction and /clear.",
     "category": "context and sessions",
-    "installCommand": "claude plugin install pin-note@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "probe-runner",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/probe-runner",
     "description": "For mod authors: runs a live check of plugins in a fresh tmux session and collects the results.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install probe-runner@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "prompt-deck",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/prompt-deck",
     "description": "Learns short prompts you send often and shows them above the prompt, selectable with a digit key.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install prompt-deck@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "prompt-offload",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/prompt-offload",
     "description": "Writes an over-long prompt to a temp file and sends the model its start and the path.",
     "category": "usage and limits",
-    "installCommand": "claude plugin install prompt-offload@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "prompt-time",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/prompt-time",
     "description": "Draws the time under each of your messages and each reply block.",
     "category": "themes and looks",
-    "installCommand": "claude plugin install prompt-time@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "sage-memory",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/sage-memory",
     "description": "Keeps project and global memories in SQLite through a local daemon and hands the model matching entries.",
     "category": "context and sessions",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install sage-memory@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "self-command",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/self-command",
     "description": "For mod authors: lets the model run a slash command in its own session and read the output.",
     "category": "productivity",
-    "installCommand": "claude plugin install self-command@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "session-watch",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/session-watch",
     "description": "Shows context fill, token totals, cost, model, effort and other local sessions in a sidebar.",
     "category": "usage and limits",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install session-watch@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "shot-inline",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/shot-inline",
     "description": "Draws each PNG or JPG the model saves or reads under its tool row.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install shot-inline@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "sidebar",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/sidebar",
     "description": "Opens one shared pane beside the transcript that other mods write sections and buttons into.",
     "category": "themes and looks",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install sidebar@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "slash-chain",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/slash-chain",
     "description": "Runs slash commands joined with && in order and stops the chain at the first failure.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install slash-chain@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "sql-concat-watch",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/sql-concat-watch",
     "description": "After an edit that builds SQL from strings, names each line so the model uses query parameters.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install sql-concat-watch@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "storage-guard",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/storage-guard",
     "description": "After an edit that stores browser data in localStorage or sessionStorage, names each line.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install storage-guard@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "subagent-ledger",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/subagent-ledger",
     "description": "Lists each subagent with turns, time, model and tokens, costliest first, colored by state.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install subagent-ledger@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "task-poke",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/task-poke",
     "description": "Submits a continue prompt while the task list has unfinished tasks, up to a set limit.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin marketplace add KilimcininKorOglu/claude-code-mods && claude plugin install task-poke@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "tool-coach",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/tool-coach",
     "description": "Stops the model from repeating a tool call that just failed with the same input.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install tool-coach@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "ua-fallback",
     "url": "https://github.com/KilimcininKorOglu/claude-code-mods/tree/main/plugins/ua-fallback",
     "description": "After a curl or wget blocked with 403 or 429, gives the model a browser User-Agent to retry with.",
     "category": "productivity",
-    "installCommand": "claude plugin install ua-fallback@kilimcininkoroglu-mods",
-    "license": "MIT",
-    "stars": 5,
-    "pushedAt": "2026-10-03T22:05:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "KilimcininKorOglu/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "check-ledger",
     "url": "https://github.com/LeeHigma0201/claude-code-mods/tree/main/mods/check-ledger",
     "description": "Records which real checks ran and which files changed afterwards, so Claude can cite evidence before claiming tested.",
     "category": "productivity",
-    "installCommand": "claude plugin install check-ledger@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-01T21:48:43Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "LeeHigma0201/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "mod-scout",
     "url": "https://github.com/LeeHigma0201/claude-code-mods/tree/main/mods/mod-scout",
     "description": "Scans recent sessions and ranks the mods you would use most, with a skill that builds them.",
     "category": "productivity",
-    "installCommand": "claude plugin install mod-scout@claude-code-mods --config exclude=private-project",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-01T21:48:43Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "LeeHigma0201/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "resume-nudge",
     "url": "https://github.com/LeeHigma0201/claude-code-mods/tree/main/mods/resume-nudge",
     "description": "Detects a session cut off mid-turn and drafts the pick-up prompt, sent with /resume-here.",
     "category": "context and sessions",
-    "installCommand": "claude plugin install resume-nudge@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-01T21:48:43Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "LeeHigma0201/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "usage-meter",
     "url": "https://github.com/LeeHigma0201/claude-code-mods/tree/main/mods/usage-meter",
     "description": "Status line meter for context fill, 5-hour and weekly plan limits and session cost.",
     "category": "usage and limits",
-    "installCommand": "claude plugin install usage-meter@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-01T21:48:43Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "LeeHigma0201/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "cache-timer",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/cache-timer",
     "description": "Counts down to when the prompt cache expires so you can send before it goes cold.",
     "category": "usage and limits",
-    "installCommand": "claude plugin marketplace add arasovic/claude-code-mods && claude plugin install cache-timer@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/cache-timer.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/cache-timer.png"
   },
   {
     "name": "change-ledger",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/change-ledger",
     "description": "Lists files edited this session in a pane with line counts and who edited them.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin install change-ledger@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/change-ledger.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/change-ledger.png"
   },
   {
     "name": "ci-watch",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/ci-watch",
     "description": "Watches GitHub Actions in a band above the prompt after a push, PR or tag, with progress bars.",
     "category": "productivity",
-    "installCommand": "claude plugin install ci-watch@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/ci-watch.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/ci-watch.png"
   },
   {
     "name": "compact-keeper",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/compact-keeper",
     "description": "Saves each compaction summary and the edited files to a handoffs folder so pre-compact context can be recovered.",
     "category": "context and sessions",
-    "installCommand": "claude plugin install compact-keeper@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "guardrails",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/guardrails",
     "description": "Blocks Cloudflare write commands, attribution lines in commits and PRs, and claude/ branch names.",
     "category": "productivity",
-    "installCommand": "claude plugin install guardrails@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "image-peek",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/image-peek",
     "description": "Shows pasted images as thumbnails above the prompt and larger under each sent message in kitty-graphics terminals.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin install image-peek@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/image-peek-draft.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/image-peek-draft.png"
   },
   {
     "name": "loop-guard",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/loop-guard",
     "description": "Tells the model silently to stop when the same call fails twice with the same error.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install loop-guard@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/loop-guard.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/loop-guard.png"
   },
   {
     "name": "pin-board",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/pin-board",
     "description": "Pins standing notes with /pin that survive /compact and /clear and show in a row above the prompt.",
     "category": "context and sessions",
-    "installCommand": "claude plugin install pin-board@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/pin-board.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/pin-board.png"
   },
   {
     "name": "search-meter",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/search-meter",
     "description": "Counts the model's searches and colors each by whether it found the answer first try, late or not at all.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install search-meter@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/search-meter.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/search-meter.png"
   },
   {
     "name": "secret-guard",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/secret-guard",
     "description": "Hides API keys and private keys before the model or transcript sees them and blocks credential file reads.",
     "category": "productivity",
-    "installCommand": "claude plugin marketplace add arasovic/claude-code-mods && claude plugin install secret-guard@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/secret-guard.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/secret-guard.png"
   },
   {
     "name": "session-meter",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/session-meter",
     "description": "A live session pane with context breakdown, usage limits and pace, tool calls and model requests.",
     "category": "usage and limits",
-    "installCommand": "claude plugin install session-meter@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/session-meter.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/session-meter.png"
   },
   {
     "name": "show-me",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/show-me",
     "description": "Draws the mermaid diagrams of each answer as images in a pane, using mmdc and a kitty-graphics terminal.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin install show-me@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/show-me.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/show-me.png"
   },
   {
     "name": "turn-footer",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/turn-footer",
     "description": "Turns the line under each answer into a summary of tools, requests, tokens and cache hits.",
     "category": "themes and looks",
-    "installCommand": "claude plugin install turn-footer@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/turn-footer.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/turn-footer.png"
   },
   {
     "name": "turn-timeline",
     "url": "https://github.com/arasovic/claude-code-mods/tree/main/turn-timeline",
     "description": "Draws the current turn as a timeline pane showing where time went and the slowest steps.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install turn-timeline@claude-code-mods",
-    "license": "MIT",
-    "stars": 3,
-    "pushedAt": "2026-10-03T13:38:04Z",
-    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/turn-timeline.png",
-    "verified": true,
-    "repo": "arasovic/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/arasovic/claude-code-mods/main/docs/turn-timeline.png"
   },
   {
     "name": "next-steps",
     "url": "https://github.com/pawandeepdhall/claude-mods/tree/main/plugins/next-steps",
     "description": "Suggests up to three next steps as one-click buttons above the prompt after each reply.",
     "category": "productivity",
-    "installCommand": "claude plugin install next-steps@my-claude-mods",
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T02:14:21Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "pawandeepdhall/claude-mods"
+    "mediaUrl": null
   },
   {
     "name": "usage-band",
     "url": "https://github.com/pawandeepdhall/claude-mods/tree/main/plugins/usage-band",
     "description": "Always-visible 5-hour and weekly usage with reset countdown, plus one-click new chat and push buttons.",
     "category": "usage and limits",
-    "installCommand": "claude plugin install usage-band@my-claude-mods",
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T02:14:21Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "pawandeepdhall/claude-mods"
+    "mediaUrl": null
   },
   {
     "name": "agents-md",
     "url": "https://github.com/anthropics/claude-code/tree/main/mods/agents-md",
     "description": "Loads AGENTS.md files the way CLAUDE.md is loaded when a project has no instruction files of its own.",
     "category": "productivity",
-    "installCommand": null,
-    "license": null,
-    "stars": 149242,
-    "pushedAt": "2026-10-03T23:07:17Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "anthropics/claude-code"
+    "mediaUrl": null
   },
   {
     "name": "diff",
     "url": "https://github.com/anthropics/claude-code/tree/main/mods/diff",
     "description": "Opens the session's uncommitted changes beside the transcript, file by file, refreshed as Claude edits.",
     "category": "reading and viewing",
-    "installCommand": null,
-    "license": null,
-    "stars": 149242,
-    "pushedAt": "2026-10-03T23:07:17Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "anthropics/claude-code"
+    "mediaUrl": null
   },
   {
     "name": "sec-default",
     "url": "https://github.com/anthropics/claude-code/tree/main/mods/sec-default",
     "description": "Organization security default that keeps classic hooks, prompt content, settings and tool policy out of plugin reach.",
     "category": "productivity",
-    "installCommand": null,
-    "license": null,
-    "stars": 149242,
-    "pushedAt": "2026-10-03T23:07:17Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "anthropics/claude-code"
+    "mediaUrl": null
   },
   {
     "name": "telemetry",
     "url": "https://github.com/anthropics/claude-code/tree/main/mods/telemetry",
     "description": "Lets plugins log events and mark feature use as first-party analytics rows sent in batches.",
     "category": "productivity",
-    "installCommand": null,
-    "license": null,
-    "stars": 149242,
-    "pushedAt": "2026-10-03T23:07:17Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "anthropics/claude-code"
+    "mediaUrl": null
   },
   {
     "name": "admin-capability-lockdown",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/enterprise/admin-capability-lockdown",
     "description": "Organization mod that withholds network and process access from plugins and restricts them by allowlist.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "2048",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/2048",
-    "description": "Play 2048 above the prompt while Claude works, paused when the turn ends, with a saved best score.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "cc-arcade",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/cc-arcade",
+    "url": "https://github.com/sezaakgun/cc-arcade",
     "description": "A set of terminal games above the prompt plus a pet that grows as Claude tests and commits.",
     "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": "https://raw.githubusercontent.com/sezaakgun/cc-arcade/main/docs/demo.gif",
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": "https://raw.githubusercontent.com/sezaakgun/cc-arcade/main/docs/demo.gif"
   },
   {
     "name": "chess",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/chess",
     "description": "Play chess against Claude in a side pane, with the token cost of each Claude move shown.",
     "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "diff-invaders",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/diff-invaders",
     "description": "Space Invaders where each wave is built from the lines Claude just added with Edit or Write.",
     "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "doom",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/doom",
-    "description": "A corridor shooter with imps and a shotgun above the prompt, playing while Claude works.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "flappy",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/flappy",
-    "description": "Flappy-style pipe gap game above the prompt, paused when the turn ends.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "invaders",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/invaders",
-    "description": "Space Invaders above the prompt, playing while Claude works with a saved best score.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "minesweeper",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/minesweeper",
-    "description": "Minesweeper above the prompt, playing while Claude works and paused when the turn ends.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "pacman",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/pacman",
     "description": "Pac-Man with four ghosts, power pellets and three lives above the prompt.",
     "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "pet",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/pet",
-    "description": "A virtual pet above the prompt that gains XP and mood from passing tests, commits and edits.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "pong",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/pong",
-    "description": "Pong against the computer above the prompt, first to five, playing while Claude works.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "snake",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/snake",
-    "description": "Snake above the prompt, playing while Claude works and paused when the turn ends.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "tetris",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/tetris",
-    "description": "Tetris above the prompt, playing while Claude works with a saved best score.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "tool-defense",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/tool-defense",
     "description": "A tower defense where each enemy is one of Claude's real tool calls, such as Bash runners.",
     "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
-  },
-  {
-    "name": "typing-test",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/games/typing-test",
-    "description": "Retype a line of code as fast as you can above the prompt while Claude works.",
-    "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "linear-tickets",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/integrations/linear-tickets",
     "description": "Shows your Linear tickets in a side pane with status and a chart of your progress.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "neon-branch-per-session",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/integrations/neon-branch-per-session",
-    "description": "Creates a Neon database branch per session and sets DATABASE_URL so Claude cannot touch production data.",
+    "description": "Gives each session its own Neon database branch and DATABASE_URL, so Claude can migrate and seed without touching production data.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "pi-agent-for-claude",
-    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/integrations/pi-agent-for-claude",
+    "url": "https://github.com/FazalAAli/pi-agent-for-claude",
     "description": "Adds a pi subagent type whose steps run the pi CLI inside Claude Code's own agent UI.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "vercel-deploys",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/integrations/vercel-deploys",
     "description": "Shows your Vercel projects in a side pane with latest deployment state, domain, commit and live status.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "websearch-to-exa",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/integrations/websearch-to-exa",
     "description": "Routes the built-in WebSearch tool to the Exa search API while keeping the same result shape.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "prompt-cache-control",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/observability/prompt-cache-control",
     "description": "A prompt cache meter above the prompt showing read, written and uncached tokens and when the cache lapses.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "universal-audit-log",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/observability/universal-audit-log",
     "description": "Records every tool call, prompt and turn event as JSON lines with origin plugin and timing.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "aitmpl",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/productivity/aitmpl",
     "description": "Opens a side pane for the aitmpl.com catalog with search, browse menu and an installed section.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "jev-model-router",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/productivity/jev-model-router",
     "description": "Chooses the model and reasoning effort for each task using TypeSafe's Jev decision model.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "jev-skill-suggestion",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/productivity/jev-skill-suggestion",
     "description": "Removes the skill listing from context and lets Jev pick at most one skill per prompt.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "npm-to-pnpm-rewriter",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/productivity/npm-to-pnpm-rewriter",
     "description": "Rewrites npm and npx commands to pnpm, yarn or bun before the Bash tool runs them.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "session-time-machine",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/productivity/session-time-machine",
     "description": "Draws the session as a timeline and writes a copy cut at any point you choose for a fresh start.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "webfetch-cache",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/productivity/webfetch-cache",
     "description": "Answers repeated WebFetch calls for the same URL and prompt from a session cache.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "block-destructive-commands",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/security/block-destructive-commands",
     "description": "Denies Bash commands matching destructive patterns such as recursive root rm, force push and hard reset.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "jev-auto-mode",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/security/jev-auto-mode",
     "description": "A JSON-policy permission layer that decides tool calls and slash commands, sending uncovered cases to Jev.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "jev-guardrails",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/security/jev-guardrails",
     "description": "Screens every prompt and reply with Jev using yes or no hazard questions and a harm score.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "jev-vercel-sandbox",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/security/jev-vercel-sandbox",
     "description": "Lets Claude send long or untrusted work to an isolated Vercel Sandbox microVM.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "large-edit-confirmation",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/security/large-edit-confirmation",
     "description": "Asks before Claude edits or overwrites a file larger than a set line count.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "protected-paths-guard",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/security/protected-paths-guard",
     "description": "Denies edits to sensitive paths such as .env files, lockfiles, CI workflows and private keys.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "secret-redactor",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/security/secret-redactor",
     "description": "Redacts API keys, tokens, JWTs and connection strings from tool results before the model reads them.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "agent-flow",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/ui/agent-flow",
     "description": "A side pane drawing the main loop's context and every subagent as a tree, live.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "git-sidebar",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/ui/git-sidebar",
     "description": "A lazygit-style pane listing worktrees and branches as clickable rows that move the session.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "tool-timing-badge",
     "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/mods/ui/tool-timing-badge",
     "description": "Times every tool call and shows a colored duration badge on each tool row.",
     "category": "themes and looks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 32355,
-    "pushedAt": "2026-10-04T01:07:34Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "davila7/claude-code-templates"
+    "mediaUrl": null
   },
   {
     "name": "token-monster",
     "url": "https://github.com/ugglr/claude-token-monster",
     "description": "A pixel-art monster in a side pane that eats tokens and shows context, limits and activity.",
     "category": "pets and fun",
-    "installCommand": "/plugin marketplace add ugglr/claude-token-monster && /plugin install token-monster@token-monster",
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-04T02:49:28Z",
-    "mediaUrl": "https://raw.githubusercontent.com/ugglr/claude-token-monster/main/media/cast.gif",
-    "verified": true,
-    "repo": "ugglr/claude-token-monster"
+    "mediaUrl": "https://raw.githubusercontent.com/ugglr/claude-token-monster/main/media/cast.gif"
   },
   {
     "name": "context-tokens",
     "url": "https://github.com/0xBADC0FFEE/claude-code-mods/tree/main/context-tokens",
     "description": "Shows context tokens in use beside the desktop app's prompt footer, colored green, yellow or red.",
     "category": "usage and limits",
-    "installCommand": "claude plugin install context-tokens@claude-code-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-03T16:36:13Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "0xBADC0FFEE/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "amp-inbox-band",
     "url": "https://github.com/23blocks-OS/ai-maestro/tree/main/mods/amp-inbox-band",
     "description": "Shows unread AMP messages above the prompt and can wake an idle session to read them.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 800,
-    "pushedAt": "2026-10-03T01:41:45Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "23blocks-OS/ai-maestro"
+    "mediaUrl": null
   },
   {
     "name": "agent-watch",
     "url": "https://github.com/AndreasOA/claude-code-mods/tree/main/plugins/agent-watch",
     "description": "Docks a narrow pane beside the transcript that follows each running subagent live.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-03T12:46:18Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "AndreasOA/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "usage-bars",
     "url": "https://github.com/AndreasOA/claude-code-mods/tree/main/plugins/usage-bars",
     "description": "Sparklines of context-window fill and tokens added per turn under the prompt.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-03T12:46:18Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "AndreasOA/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "reflect-mod",
     "url": "https://github.com/BayramAnnakov/claude-reflect/tree/main/mod",
     "description": "Finds reusable corrections in your prompts and offers to save them to CLAUDE.md from a band.",
     "category": "context and sessions",
-    "installCommand": "claude plugin install reflect-mod@claude-reflect-marketplace",
-    "license": "MIT",
-    "stars": 1702,
-    "pushedAt": "2026-10-03T05:33:46Z",
-    "mediaUrl": "https://raw.githubusercontent.com/BayramAnnakov/claude-reflect/main/assets/reflect-mod-band.png",
-    "verified": true,
-    "repo": "BayramAnnakov/claude-reflect"
+    "mediaUrl": "https://raw.githubusercontent.com/BayramAnnakov/claude-reflect/main/assets/reflect-mod-band.png"
   },
   {
     "name": "modscope",
     "url": "https://github.com/CommunityPokeOrg/claude-code-modscope/tree/main/plugins/modscope",
     "description": "Inspects loaded mods and attributes hook failures and slow handlers to the mod that caused them.",
     "category": "productivity",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-02T13:42:53Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "CommunityPokeOrg/claude-code-modscope"
+    "mediaUrl": null
   },
   {
     "name": "cache-meter",
     "url": "https://github.com/DarioFontanel/claude-code-mods/tree/main/cache-meter",
     "description": "A bar above the prompt that drains as the hour of prompt cache runs out.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T07:27:11Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "DarioFontanel/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "next-steps",
     "url": "https://github.com/DarioFontanel/claude-code-mods/tree/main/next-steps",
     "description": "Three buttons above the prompt after each turn: the next two likely steps and Replay.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T07:27:11Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "DarioFontanel/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "quick-buttons",
     "url": "https://github.com/DarioFontanel/claude-code-mods/tree/main/quick-buttons",
     "description": "A panel of buttons for skills and commands you choose at first launch, run with one click.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T07:27:11Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "DarioFontanel/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "replay-theater",
     "url": "https://github.com/DarioFontanel/claude-code-mods/tree/main/replay-theater",
     "description": "Steps through the file edits Claude made in the last turn, one diff at a time.",
     "category": "reading and viewing",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1,
-    "pushedAt": "2026-10-03T07:27:11Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "DarioFontanel/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "cache-timer",
     "url": "https://github.com/EricJamie/claude-code-mods/tree/main/plugins/cache-timer",
     "description": "A countdown to prompt cache expiry, shown in the prompt footer before the model name.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": null,
-    "stars": 1,
-    "pushedAt": "2026-10-03T19:05:44Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "EricJamie/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "context-band",
     "url": "https://github.com/EricJamie/claude-code-mods/tree/main/plugins/context-band",
     "description": "A band above the prompt with rate limits, tokens, speed, cache, cost and context fill.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": null,
-    "stars": 1,
-    "pushedAt": "2026-10-03T19:05:44Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "EricJamie/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "winnow",
     "url": "https://github.com/GhalebDweikat/winnow",
     "description": "Judges large Read, Bash and Grep results before they enter context and replaces blocks you do not need.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 101,
-    "pushedAt": "2026-09-30T02:32:52Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "GhalebDweikat/winnow"
+    "mediaUrl": null
   },
   {
     "name": "cache-keepalive",
     "url": "https://github.com/RichardJSun/claude-code-mods/tree/main/plugins/cache-keepalive",
     "description": "Keeps the prompt cache warm while background tasks run.",
     "category": "context and sessions",
-    "installCommand": "/plugin install cache-keepalive@richardjsun-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-01T20:34:56Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "RichardJSun/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "storybloq",
     "url": "https://github.com/Storybloq/storybloq/tree/main/plugins/storybloq",
     "description": "Keeps stories, plans, handovers and review evidence beside your code so work continues across sessions.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": null,
-    "stars": 763,
-    "pushedAt": "2026-10-04T02:04:02Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "Storybloq/storybloq"
+    "mediaUrl": null
   },
   {
     "name": "token-optimizer",
     "url": "https://github.com/alexgreensh/token-optimizer",
     "description": "Token Optimizer status bar showing context and token savings, shipped inside the token-optimizer plugin.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": null,
-    "stars": 2481,
-    "pushedAt": "2026-10-03T23:26:41Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "alexgreensh/token-optimizer"
+    "mediaUrl": null
   },
   {
     "name": "next-steps",
     "url": "https://github.com/anthropics/claude-plugins-community/tree/main/next-steps",
     "description": "Suggests up to three next prompts above the input, put in the prompt box as an editable draft.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "Apache-2.0",
-    "stars": 4461,
-    "pushedAt": "2026-10-01T18:21:32Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "anthropics/claude-plugins-community"
+    "mediaUrl": null
   },
   {
     "name": "plannotator",
     "url": "https://github.com/backnotprop/plannotator/tree/main/apps/hook",
     "description": "Opens plans in a visual UI for markup and team sharing, hooking into plan mode.",
     "category": "productivity",
-    "installCommand": "/plugin install plannotator@plannotator",
-    "license": "Apache-2.0",
-    "stars": 9125,
-    "pushedAt": "2026-10-03T21:41:03Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "backnotprop/plannotator"
+    "mediaUrl": null
   },
   {
     "name": "prompt-optimizer",
     "url": "https://github.com/bai-collab/claude_code_mod/tree/claude/stoic-carson-pqpwmt/plugins/prompt-optimizer",
     "description": "Attaches hidden clarify-or-proceed guidance to short or vague prompts.",
     "category": "productivity",
-    "installCommand": "/plugin install prompt-optimizer@claude-code-mod",
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-03T07:02:07Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "bai-collab/claude_code_mod"
+    "mediaUrl": null
   },
   {
     "name": "emotion-statusline",
     "url": "https://github.com/bencium/bencium-marketplace/tree/main/emotion-statusline",
     "description": "Shows Claude's classified emotional state in the status line, with a warning on reward hacking.",
     "category": "pets and fun",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 443,
-    "pushedAt": "2026-10-03T12:36:40Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "bencium/bencium-marketplace"
+    "mediaUrl": null
   },
   {
     "name": "obsidian-mind",
     "url": "https://github.com/breferrari/obsidian-mind/tree/main/.claude/skills/obsidian-mind",
     "description": "Delivers an Obsidian vault's session context as an instruction file that survives compaction.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 4882,
-    "pushedAt": "2026-10-03T10:36:21Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "breferrari/obsidian-mind"
+    "mediaUrl": null
   },
   {
     "name": "caliber-jev-compaction",
     "url": "https://github.com/caliber-ai-org/ai-setup/tree/master/plugin/caliber-jev-compaction",
     "description": "Compacts context with Jev judging which tool calls to drop, for the Caliber context layer.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 1295,
-    "pushedAt": "2026-09-24T08:29:46Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "caliber-ai-org/ai-setup"
+    "mediaUrl": null
   },
   {
     "name": "protect-env-files",
     "url": "https://github.com/cprussin/claude-code-mods/tree/main/packages/protect-env-files",
     "description": "Sample mod that denies edits to .env files.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-03T00:32:01Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "cprussin/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "blast-radius",
     "url": "https://github.com/cskwork/claude-code-mods/tree/main/blast-radius",
     "description": "Dry-runs risky Bash commands such as recursive deletes and destructive git, then asks Proceed or Cancel.",
     "category": "productivity",
-    "installCommand": "/plugin install blast-radius@claude-code-mods",
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-02T05:07:01Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "cskwork/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "token-weather",
     "url": "https://github.com/cskwork/claude-code-mods/tree/main/token-weather",
     "description": "A live forecast of the context window drawn above the prompt.",
     "category": "usage and limits",
-    "installCommand": "/plugin install token-weather@claude-code-mods",
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-02T05:07:01Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "cskwork/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "cuelume",
     "url": "https://github.com/danielwh2/cuelume/tree/main/claude-code",
     "description": "Plays one sound when a long turn ends and another when a permission prompt waits.",
     "category": "sound and alerts",
-    "installCommand": "/plugin install cuelume@cuelume",
-    "license": "MIT",
-    "stars": 1940,
-    "pushedAt": "2026-10-02T00:40:49Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "danielwh2/cuelume"
+    "mediaUrl": null
   },
   {
     "name": "prompt-box",
     "url": "https://github.com/ekinertac/claude-code-mods/tree/master/prompt-box",
     "description": "Draws your prompts in the scrollback inside a thick colored box so they are easy to find.",
     "category": "themes and looks",
-    "installCommand": "claude plugin install prompt-box@ekinertac-mods",
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-03T20:04:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "ekinertac/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "rewrite-prompt",
     "url": "https://github.com/ekinertac/claude-code-mods/tree/master/rewrite-prompt",
     "description": "Ctrl+P rewrites the draft in the prompt box before you send it.",
     "category": "productivity",
-    "installCommand": "claude plugin install rewrite-prompt@ekinertac-mods",
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-03T20:04:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "ekinertac/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "tool-oneline",
     "url": "https://github.com/ekinertac/claude-code-mods/tree/master/tool-oneline",
     "description": "Folds tool calls in the scrollback into one line per call or per run of calls.",
     "category": "themes and looks",
-    "installCommand": "claude plugin install tool-oneline@ekinertac-mods",
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-03T20:04:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "ekinertac/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "write-for-me",
     "url": "https://github.com/ekinertac/claude-code-mods/tree/master/write-for-me",
     "description": "Ctrl+N writes your next prompt from the conversation so far, using a draft as a hint.",
     "category": "productivity",
-    "installCommand": "claude plugin install write-for-me@ekinertac-mods",
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-03T20:04:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "ekinertac/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "multi-core",
     "url": "https://github.com/greenpolo/cc-multi-cli-plugin/tree/main/plugins/multi-core",
     "description": "Brings OpenAI, Cursor, OpenCode and other external models into a session through the model picker.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "Apache-2.0",
-    "stars": 186,
-    "pushedAt": "2026-09-29T21:08:59Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "greenpolo/cc-multi-cli-plugin"
+    "mediaUrl": null
   },
   {
     "name": "claude-council",
     "url": "https://github.com/hex/claude-council",
     "description": "Consults several AI coding agents in parallel and shows their answers side by side.",
     "category": "agents and tasks",
-    "installCommand": "/plugin install claude-council",
-    "license": "MIT",
-    "stars": 820,
-    "pushedAt": "2026-10-01T13:16:08Z",
-    "mediaUrl": "https://raw.githubusercontent.com/hex/claude-council/main/docs/images/council-pane.png",
-    "verified": true,
-    "repo": "hex/claude-council"
+    "mediaUrl": "https://raw.githubusercontent.com/hex/claude-council/main/docs/images/council-pane.png"
   },
   {
     "name": "cost-git",
     "url": "https://github.com/juulsverne/claude-code-mods/tree/main/cost-git",
     "description": "A band above the prompt with session cost, git branch and status, CI, and pull and push buttons.",
     "category": "usage and limits",
-    "installCommand": "/plugin install cost-git@playground-mods",
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-03T18:41:04Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "juulsverne/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "firstmate-calm",
     "url": "https://github.com/kunchenguid/firstmate/tree/main/.claude/mods/firstmate-calm",
     "description": "A sailboat working animation and a conversation-only transcript view.",
     "category": "themes and looks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 7475,
-    "pushedAt": "2026-10-04T01:22:45Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "kunchenguid/firstmate"
+    "mediaUrl": null
   },
   {
     "name": "mobile-mcp",
     "url": "https://github.com/mobile-next/mobile-mcp/tree/main/plugin",
     "description": "Mobile device automation server plus a live, clickable device screen in a pane.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "Apache-2.0",
-    "stars": 8614,
-    "pushedAt": "2026-10-02T13:55:52Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "mobile-next/mobile-mcp"
+    "mediaUrl": null
   },
   {
     "name": "jev-auto-compact",
     "url": "https://github.com/notque/vexjoy-agent/tree/main/plugins/jev-auto-compact",
     "description": "At 60 percent context, prunes stale tool calls with Jev and zero generation, never using the LLM summarizer.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 425,
-    "pushedAt": "2026-10-03T04:23:21Z",
-    "mediaUrl": "https://raw.githubusercontent.com/notque/vexjoy-agent/main/docs/repo-hero.png",
-    "verified": true,
-    "repo": "notque/vexjoy-agent"
+    "mediaUrl": null
   },
   {
     "name": "tripwire",
     "url": "https://github.com/oaustegard/claude-code-mods/tree/main/tripwire",
     "description": "Catches recurring agent mistakes from past transcripts, such as whole-disk find and masked errors.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-03T22:40:14Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "oaustegard/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "shunt",
     "url": "https://github.com/pleaseai/shunt/tree/main/plugins/shunt",
     "description": "Shows the shared account pool's remaining headroom and reset times through /shunt:usage.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "Apache-2.0",
-    "stars": 202,
-    "pushedAt": "2026-10-04T01:26:22Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "pleaseai/shunt"
+    "mediaUrl": null
   },
   {
     "name": "navigator",
     "url": "https://github.com/qf-studio/navigator",
     "description": "Context engineering plugin that loads documentation on demand to keep most of the context window free.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 274,
-    "pushedAt": "2026-10-03T20:13:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "qf-studio/navigator"
+    "mediaUrl": null
   },
   {
     "name": "repowise",
     "url": "https://github.com/repowise-dev/repowise/tree/main/plugins/claude-code",
     "description": "Gives Claude codebase context such as architecture, ownership, hotspots and a code-health score.",
     "category": "context and sessions",
-    "installCommand": "/plugin install repowise@repowise",
-    "license": "AGPL-3.0",
-    "stars": 7144,
-    "pushedAt": "2026-10-04T03:14:30Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "repowise-dev/repowise"
+    "mediaUrl": null
   },
   {
     "name": "coderabbit-band",
     "url": "https://github.com/schreibse/claude-code-mods/tree/main/coderabbit-band",
     "description": "A band above the prompt with the open CodeRabbit threads and nitpicks of the branch's MR.",
     "category": "productivity",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-04T02:10:10Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "schreibse/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "mr-banner",
     "url": "https://github.com/schreibse/claude-code-mods/tree/main/mr-banner",
     "description": "A colored card with a link under each MR or PR created, merged, approved or reviewed.",
     "category": "productivity",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-04T02:10:10Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "schreibse/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "quiet-bash",
     "url": "https://github.com/schreibse/claude-code-mods/tree/main/quiet-bash",
     "description": "One-line transcript rows for Bash calls and plan-file edits, with /quiet to show full rows.",
     "category": "themes and looks",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-04T02:10:10Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "schreibse/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "quiet-spinner",
     "url": "https://github.com/schreibse/claude-code-mods/tree/main/quiet-spinner",
     "description": "Plain words for the turn spinner and the turn-duration line.",
     "category": "themes and looks",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-04T02:10:10Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "schreibse/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "redact",
     "url": "https://github.com/schreibse/claude-code-mods/tree/main/redact",
     "description": "Replaces secrets found by betterleaks with tokens the model sees, restored on Write and Edit.",
     "category": "productivity",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-04T02:10:10Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "schreibse/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "reminder-log",
     "url": "https://github.com/schreibse/claude-code-mods/tree/main/reminder-log",
     "description": "Tallies reminders Claude Code injects per session and drops the token counter and repeated attribution blocks.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-04T02:10:10Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "schreibse/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "usage-percent",
     "url": "https://github.com/schreibse/claude-code-mods/tree/main/usage-percent",
     "description": "Usage percentages under the prompt for context, 5-hour and weekly limits.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-04T02:10:10Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "schreibse/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "clawd-spinner",
     "url": "https://github.com/scoobynko/claude-code-mods/tree/main/plugins/clawd-spinner",
     "description": "Clawd types on a tiny laptop under the spinner as code floats out and tokens float in.",
     "category": "pets and fun",
-    "installCommand": "/plugin install clawd-spinner@scoobynko-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T22:11:29Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "scoobynko/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "image-preview",
     "url": "https://github.com/scoobynko/claude-code-mods/tree/main/plugins/image-preview",
     "description": "Opens a pane listing every image in the session and shows the one you pick.",
     "category": "reading and viewing",
-    "installCommand": "/plugin install image-preview@scoobynko-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T22:11:29Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "scoobynko/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "md-view",
     "url": "https://github.com/scoobynko/claude-code-mods/tree/main/plugins/md-view",
     "description": "Click a Markdown file in Claude's reply to read it rendered in a side pane.",
     "category": "reading and viewing",
-    "installCommand": "/plugin install md-view@scoobynko-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T22:11:29Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "scoobynko/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "supermemory",
     "url": "https://github.com/supermemoryai/claude-supermemory/tree/main/plugin",
     "description": "Persistent memory across Claude Code sessions using Supermemory.",
     "category": "context and sessions",
-    "installCommand": "/plugin install supermemory",
-    "license": null,
-    "stars": 2778,
-    "pushedAt": "2026-10-04T02:59:04Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "supermemoryai/claude-supermemory"
+    "mediaUrl": null
   },
   {
     "name": "checkpoint",
     "url": "https://github.com/sverma24/claude-code-mods/tree/main/checkpoint",
     "description": "Commits files Claude edited as a git checkpoint after each turn and adds /rollback to undo.",
     "category": "productivity",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-03T16:57:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "sverma24/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "secret-guard",
     "url": "https://github.com/sverma24/claude-code-mods/tree/main/secret-guard",
     "description": "Blocks reads of .env files and printing of API keys, with a red warning above the prompt.",
     "category": "productivity",
-    "installCommand": "/plugin install secret-guard --marketplace sverma24/claude-code-mods",
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-03T16:57:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "sverma24/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "touched",
     "url": "https://github.com/sverma24/claude-code-mods/tree/main/touched",
     "description": "Opens a pane listing every file Claude read or edited this session, with counts.",
     "category": "reading and viewing",
-    "installCommand": null,
-    "license": null,
-    "stars": 0,
-    "pushedAt": "2026-10-03T16:57:38Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "sverma24/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "fast-jev-compaction",
     "url": "https://github.com/tamaratran/fast-jev-compaction",
     "description": "Replaces compaction with the original messages minus the tool calls Jev judged no longer needed.",
     "category": "context and sessions",
-    "installCommand": "claude plugin install fast-jev-compaction@fast-jev-compaction",
-    "license": "MIT",
-    "stars": 7361,
-    "pushedAt": "2026-09-18T04:45:31Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "tamaratran/fast-jev-compaction"
+    "mediaUrl": null
   },
   {
     "name": "jev-pruner",
     "url": "https://github.com/tamaratran/jev-pruner",
     "description": "Uses Jev to trim noisy Bash output after the command runs and before the model sees it.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 159,
-    "pushedAt": "2026-09-30T08:14:47Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "tamaratran/jev-pruner"
+    "mediaUrl": null
   },
   {
     "name": "behavior-map",
     "url": "https://github.com/theonly1me/claude-code-mods/tree/main/plugins/behavior-map",
     "description": "Shows before and after behavior flows for a change, backed by evidence.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin install behavior-map@claude-code-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T20:16:24Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "theonly1me/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "change-journal",
     "url": "https://github.com/theonly1me/claude-code-mods/tree/main/plugins/change-journal",
     "description": "Live explanations of edits with supporting code and checks.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin install change-journal@claude-code-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T20:16:24Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "theonly1me/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "little-harvest",
     "url": "https://github.com/theonly1me/claude-code-mods/tree/main/plugins/little-harvest",
     "description": "A garden that grows a little with each Claude turn.",
     "category": "pets and fun",
-    "installCommand": "claude plugin install little-harvest@claude-code-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T20:16:24Z",
-    "mediaUrl": "https://raw.githubusercontent.com/theonly1me/claude-code-mods/main/plugins/little-harvest/assets/preview.png",
-    "verified": true,
-    "repo": "theonly1me/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/theonly1me/claude-code-mods/main/plugins/little-harvest/assets/preview.png"
   },
   {
     "name": "night-feast",
     "url": "https://github.com/theonly1me/claude-code-mods/tree/main/plugins/night-feast",
     "description": "A vampire hunts villagers on screen while Claude works.",
     "category": "pets and fun",
-    "installCommand": "claude plugin install night-feast@claude-code-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T20:16:24Z",
-    "mediaUrl": "https://raw.githubusercontent.com/theonly1me/claude-code-mods/main/plugins/night-feast/assets/vampire.png",
-    "verified": true,
-    "repo": "theonly1me/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/theonly1me/claude-code-mods/main/plugins/night-feast/assets/vampire.png"
   },
   {
     "name": "pocket-familiar",
     "url": "https://github.com/theonly1me/claude-code-mods/tree/main/plugins/pocket-familiar",
     "description": "A growing companion creature that lives alongside your work.",
     "category": "pets and fun",
-    "installCommand": "claude plugin install pocket-familiar@claude-code-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T20:16:24Z",
-    "mediaUrl": "https://raw.githubusercontent.com/theonly1me/claude-code-mods/main/plugins/pocket-familiar/assets/preview.png",
-    "verified": true,
-    "repo": "theonly1me/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/theonly1me/claude-code-mods/main/plugins/pocket-familiar/assets/preview.png"
   },
   {
     "name": "samurai-dojo",
     "url": "https://github.com/theonly1me/claude-code-mods/tree/main/plugins/samurai-dojo",
     "description": "A samurai trains, meditates and fights on screen while Claude works.",
     "category": "pets and fun",
-    "installCommand": "claude plugin install samurai-dojo@claude-code-mods",
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T20:16:24Z",
-    "mediaUrl": "https://raw.githubusercontent.com/theonly1me/claude-code-mods/main/plugins/samurai-dojo/assets/preview.png",
-    "verified": true,
-    "repo": "theonly1me/claude-code-mods"
+    "mediaUrl": "https://raw.githubusercontent.com/theonly1me/claude-code-mods/main/plugins/samurai-dojo/assets/preview.png"
   },
   {
     "name": "context-level",
     "url": "https://github.com/tobihagemann/turbo/tree/main/claude/skills/context-level",
     "description": "Gives Claude a tool that reads how much of the context window remains.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 405,
-    "pushedAt": "2026-10-03T20:38:02Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "tobihagemann/turbo"
+    "mediaUrl": null
   },
   {
     "name": "crit-tui",
     "url": "https://github.com/tomasz-tomczyk/crit/tree/main/integrations/claude-code-tui",
     "description": "Early crit integration: comment on the conversation, diff or a file in a pane and send the review to Claude.",
     "category": "reading and viewing",
-    "installCommand": "/plugin install crit-tui@crit",
-    "license": "MIT",
-    "stars": 1168,
-    "pushedAt": "2026-10-03T09:43:12Z",
-    "mediaUrl": "https://raw.githubusercontent.com/tomasz-tomczyk/crit/main/docs/images/demo-overview.png",
-    "verified": true,
-    "repo": "tomasz-tomczyk/crit"
+    "mediaUrl": null
   },
   {
     "name": "hal-grammar-check",
     "url": "https://github.com/vinta/hal-9000/tree/main/plugins/hal-grammar-check",
     "description": "Grammar-checks your prompt as you type, shown above the prompt box.",
     "category": "productivity",
-    "installCommand": "claude plugin install hal-grammar-check@hal-9000",
-    "license": "MIT",
-    "stars": 138,
-    "pushedAt": "2026-10-03T21:53:15Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "vinta/hal-9000"
+    "mediaUrl": null
   },
   {
     "name": "remctl",
     "url": "https://github.com/viticci/remctl/tree/main/plugins/claude-code",
     "description": "A Today band for Apple Reminders above the prompt, part of RemCTL.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 584,
-    "pushedAt": "2026-10-03T12:25:24Z",
-    "mediaUrl": "https://cdn.macstories.net/images/uploads/2026/09/30/15-cli-today-1790776847710-fed98e698d.png",
-    "verified": true,
-    "repo": "viticci/remctl"
+    "mediaUrl": "https://cdn.macstories.net/images/uploads/2026/09/30/15-cli-today-1790776847710-fed98e698d.png"
   },
   {
     "name": "first-mod",
     "url": "https://github.com/wickedhardflip/claude-code-mods/tree/main/first-mod",
     "description": "Starter mod that shows a toast on start and counts tool calls in the status line.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T16:46:40Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "wickedhardflip/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "run-breakdown",
     "url": "https://github.com/wickedhardflip/claude-code-mods/tree/main/run-breakdown",
     "description": "After a long run, shows which model and effort the main session and each subagent used.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T16:46:40Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "wickedhardflip/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "session-recap",
     "url": "https://github.com/wickedhardflip/claude-code-mods/tree/main/session-recap",
     "description": "A band above the prompt with open questions Claude asked and bullets of what the last prompt did.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T16:46:40Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "wickedhardflip/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "subagent-models",
     "url": "https://github.com/wickedhardflip/claude-code-mods/tree/main/subagent-models",
     "description": "Status line showing which model each running subagent uses.",
     "category": "agents and tasks",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 0,
-    "pushedAt": "2026-10-02T16:46:40Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "wickedhardflip/claude-code-mods"
+    "mediaUrl": null
   },
   {
     "name": "lesson-cards",
     "url": "https://github.com/yonatangross/orchestkit/tree/main/mods/lesson-cards",
     "description": "Displays lesson hint cards when tool calls match known patterns.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 286,
-    "pushedAt": "2026-10-03T21:38:17Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "yonatangross/orchestkit"
+    "mediaUrl": null
   },
   {
     "name": "memory-lens",
     "url": "https://github.com/yonatangross/orchestkit/tree/main/mods/memory-lens",
     "description": "Recalls the few memories related to each prompt, one line for you and one entry for the model.",
     "category": "context and sessions",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 286,
-    "pushedAt": "2026-10-03T21:38:17Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "yonatangross/orchestkit"
+    "mediaUrl": null
   },
   {
     "name": "promote-lights",
     "url": "https://github.com/yonatangross/orchestkit/tree/main/mods/promote-lights",
     "description": "CI status lights above the prompt while a promote PR against main is open.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 286,
-    "pushedAt": "2026-10-03T21:38:17Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "yonatangross/orchestkit"
+    "mediaUrl": null
   },
   {
     "name": "secrets-veil",
     "url": "https://github.com/yonatangross/orchestkit/tree/main/mods/secrets-veil",
     "description": "Masks secret values in tool results before the model reads them, with no way to reveal them.",
     "category": "productivity",
-    "installCommand": null,
-    "license": "MIT",
-    "stars": 286,
-    "pushedAt": "2026-10-03T21:38:17Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "yonatangross/orchestkit"
+    "mediaUrl": null
   },
   {
     "name": "lean-ctx",
     "url": "https://github.com/yvgude/lean-ctx/tree/main/integrations/claude-code-mod",
     "description": "Wakes on background job completion, trims redundant hook context, shapes Bash output and shows per-session usage.",
     "category": "usage and limits",
-    "installCommand": null,
-    "license": "Apache-2.0",
-    "stars": 3859,
-    "pushedAt": "2026-10-03T21:35:09Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "yvgude/lean-ctx"
+    "mediaUrl": null
   },
   {
     "name": "terminal-browser",
     "url": "https://github.com/zenbu-labs/terminal-browser/tree/main/claude-code-plugin",
     "description": "A browser inside Claude Code to preview sites and HTML files that the agent can also control.",
     "category": "reading and viewing",
-    "installCommand": "claude plugin install terminal-browser@terminal-browser",
-    "license": "MIT",
-    "stars": 3621,
-    "pushedAt": "2026-10-04T01:57:14Z",
-    "mediaUrl": null,
-    "verified": true,
-    "repo": "zenbu-labs/terminal-browser"
+    "mediaUrl": null
   },
   {
     "name": "ruflo-mods",
     "url": "https://github.com/ruvnet/ruflo/tree/main/plugins/ruflo-mods",
     "description": "Runs ruflo as a Claude Code mod, on by default in newer versions.",
     "category": "agents and tasks",
-    "installCommand": "claude plugin install ruflo-mods@ruflo --scope <scope>",
-    "license": "MIT",
-    "stars": 73810,
-    "pushedAt": "2026-10-04T02:33:32Z",
-    "mediaUrl": "https://raw.githubusercontent.com/ruvnet/ruflo/main/ruflo/assets/ruflo-small.jpeg",
-    "verified": true,
-    "repo": "ruvnet/ruflo"
+    "mediaUrl": null
   }
 ]
