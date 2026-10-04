@@ -1,4 +1,6 @@
-# Claude Code mods
+<img src="assets/crab.png" alt="" width="120" align="right">
+
+# Crabby Claude Code mods
 
 Every public Claude Code mod we could find, 235 of them, with a picture where the author published one.
 

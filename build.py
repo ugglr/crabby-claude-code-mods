@@ -8,7 +8,9 @@ order = ['pets and fun', 'usage and limits', 'context and sessions', 'agents and
          'reading and viewing', 'themes and looks', 'sound and alerts', 'productivity']
 
 out = [
-    '# Claude Code mods',
+    '<img src="assets/crab.png" alt="" width="120" align="right">',
+    '',
+    '# Crabby Claude Code mods',
     '',
     f'Every public Claude Code mod we could find, {len(mods)} of them, with a picture where the author published one.',
     '',
